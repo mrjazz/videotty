@@ -80,4 +80,5 @@ Or more fancy syntax inside slower version of Player class:
 An example of playing video in terminal:
 
 
-<iframe width="649" height="360" src="https://www.youtube.com/embed/FRuA2x82uC0" frameborder="0" allowfullscreen></iframe>
+[![Demo](https://img.youtube.com/vi/FRuA2x82uC0/0.jpg)]
+(https://www.youtube.com/embed/FRuA2x82uC0)
